@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jawwad</h1>
-<h3 align="center">Computer Science Graduate, Aspiring Cloud/DevOps Engineer</h3>
+<h3 align="center">Software Engineer /  Data Engineer</h3>
 
-- 🚩 Situated in Toronto ON
+- 🚩 Located in Toronto ON
 - 🌱 I’m currently learning **Azure** and **Cloud DevOps**
 - 🌐 Visit my website: [https://jawwadkhan.ca](https://jawwadkhan.ca)
 - 📫 Contact Me: [jawwad1809@gmail.com](mailto:jawwad1809@gmail.com)
