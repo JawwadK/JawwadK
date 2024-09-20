@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jawwad</h1>
-<h3 align="center">Software Engineer /  Data Engineer</h3>
 
 # 💫 About Me:
 🚩 Located in Toronto ON<br>🌱 I’m currently learning Azure and Cloud DevOps<br>🌐 Visit my website: https://jawwadkhan.ca<br>📫 Contact Me: jawwad1809@gmail.com<br>
