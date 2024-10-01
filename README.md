@@ -5,9 +5,9 @@
 ## 💫 About Me:
 🚩 Located in Toronto, ON  
 🌱 I’m currently learning Azure and Cloud DevOps  
-🎓 I have a background in [Your Background Here]  
+🎓 I have a background in Software Developement and Data Science  
 🌐 Visit my website: [jawwadkhan.ca](https://jawwadkhan.ca)  
-📫 Contact Me: [![Email Badge](https://img.shields.io/badge/jawwad1809@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawwad1809@gmail.com)  
+📫 Contact Me: [jawwad1809@gmail.com](mailto:jawwad1809@gmail.com)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jawwad77) 
