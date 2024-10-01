@@ -11,7 +11,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jawwad77) 
-[![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ## 💻 Tech Stack:
 ### 🧑‍💻 Programming Languages and Frameworks
