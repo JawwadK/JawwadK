@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jawwadk&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawwadk&layout=donut&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jawwadk&layout=donut&theme=tokyonight&langs_count=15)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JawwadK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
